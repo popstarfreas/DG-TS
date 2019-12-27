@@ -1,5 +1,5 @@
 ---
-nav-order: 3
+nav_order: 3
 ---
 # Discord
 <iframe src="https://discordapp.com/widget?id=459819294730092555&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
