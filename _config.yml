@@ -1,4 +1,5 @@
 title: "Dark Gaming"
+base-url: "/DG-TS"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
 markdown: kramdown
