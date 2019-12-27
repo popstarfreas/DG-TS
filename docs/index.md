@@ -1,4 +1,5 @@
 ---
+title: Introduction
 nav-order: 1
 ---
 ![Dark Gaming Banner](https://terraria-servers.com/server/90/banner-90-1501598484.gif)
