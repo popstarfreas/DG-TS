@@ -1,8 +1,9 @@
 ---
+title: Server
 parent: FAQ
 nav-order: 4
 ---
-# Server/Gamemodes
+# Server
 
 The server has a few Dimensions. You can join other dimensions by doing `/<dimension name>`, if you want to join Survival, you'd do `/survival` and if you want to join Build I'd do `/build` and so on. You can also join other dimensions by using the warp plates in Rift.
 

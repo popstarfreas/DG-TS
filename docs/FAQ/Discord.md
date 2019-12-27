@@ -1,4 +1,5 @@
 ---
+title: Discord Invite
 parent: FAQ
 nav-order: 6
 ---

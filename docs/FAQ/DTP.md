@@ -1,4 +1,5 @@
 ---
+title: Trading System
 parent: FAQ
 nav-order: 2
 ---

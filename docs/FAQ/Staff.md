@@ -1,4 +1,5 @@
 ---
+title: Staff
 parent: FAQ
 nav-order: 8
 ---

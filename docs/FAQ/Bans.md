@@ -1,4 +1,5 @@
 ---
+title: Bans & Appeals
 parent: FAQ
 nav-order: 7
 ---

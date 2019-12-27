@@ -1,4 +1,5 @@
 ---
+title: Accounts & Management
 parent: FAQ
 nav-order: 1
 ---

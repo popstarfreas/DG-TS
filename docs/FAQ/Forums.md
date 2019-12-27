@@ -1,4 +1,5 @@
 ---
+title: Forums
 parent: FAQ
 nav-order: 3
 ---
