@@ -6,17 +6,16 @@ nav-order: 8
 # Staff
 Official Staff List(As of December 27 2019)
 
-| User                 | Rank(s)                  |
-| -------------------- |:------------------------:|
-| Rofle                | Admin                    |
-| Lord Avery           | Admin                    |
-| Dunkasaur            | Admin                    |
-| Quinci               | Admin                    |
-| harmfulcrane         | Adversary                |
-| Blanc                | Moderator, PvP Manager   |
-| DG Victor The Legend | Moderator, PvE Manager   |
-| Ourself              | Moderator                |
-| N3m3sis              | Moderator                |
-| Tisu                 | PvP Manager              |
-| SolarDeity           | Items Manager, Assistant |
-| Marcus101RR          | Survival Manager         |
+| Staff Name           | Rank(s)                     |
+| -------------------- |:---------------------------:|
+| Rofle                | Admin, Developer            |
+| Lord Avery           | Admin                       |
+| dunkasaur            | Admin                       |
+| Quinci               | Admin                       |
+| Blanc                | Moderator, PvP Manager      |
+| DG Victor The Legend | Moderator, PvE Manager      |
+| Ourself              | Moderator                   |
+| Tisu                 | PvP Manager                 |
+| Adiemus              | PvP Manager                 |
+| SolarDeity           | Items Manager, Assistant    |
+| Marcus101RR          | Survival Manager, Developer |
