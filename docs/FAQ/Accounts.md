@@ -17,7 +17,7 @@ nav-order: 1
 
 > Q: `/register` says I already own an account.
 >
-> A: Aslong as you have logged in **ATLEAST** 1 time into your account, you can simply do `/rename <name the /register command told you>` then `/login` without password(this is of course assuming you have the same IP and Computer), but if you haven't already logged in atleast one time, do `/login <password>` instead of `/login` without a password.
+> A: As long as you have logged in **AT LEAST** once into your account, you can simply do `/rename <name the /register command told you>` then `/login` without password (this is of course assuming you have the same IP and Computer), but if you haven't already logged in at least once, do `/login <password>` instead of `/login` without a password.
 
 > Q: `/register` says my name is already registered
 >
