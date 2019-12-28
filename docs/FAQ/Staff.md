@@ -8,14 +8,14 @@ Official Staff List (as of December 27 2019)
 
 | Staff Name           | Rank(s)                     |
 | -------------------- |:---------------------------:|
-| Rofle                | Admin, Developer            |
-| Lord Avery           | Admin                       |
-| dunkasaur            | Admin                       |
+| Rofle                | Super-Admin, Developer            |
+| Lord Avery           | Super-Admin                       |
+| dunkasaur            | Super-Admin                       |
 | Quinci               | Admin                       |
 | Blanc                | Moderator, PvP Manager      |
 | DG Victor The Legend | Moderator, PvE Manager      |
 | Ourself              | Moderator                   |
 | Tisu                 | PvP Manager                 |
 | Adiemus              | PvP Manager                 |
-| SolarDeity           | Items Manager, Assistant    |
-| Marcus101RR          | Survival Manager, Developer |
+| SolarDeity           | Items Manager, Staff Assistant    |
+| N3m3sis | Admin (Inactive) |
