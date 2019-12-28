@@ -6,7 +6,7 @@ nav-order: 5
 # Phase
 Phase is a client you can use to chat with other players without launching Terraria, it's basically Dark Gaming's Discord. The Terraria Discussion is automatically synced with the chat in-game.
 
-> Q: Are people using Phase admin?
+> Q: Are people using Phase an admin?
 >
 > A: No, refer to [Staff](Staff.md) for a list of staff.
 
@@ -20,7 +20,7 @@ Phase is a client you can use to chat with other players without launching Terra
 
 > Q: What is the future of Phase?
 >
-> A: In the near future Phase will be phased of Dark Gaming and replaced with something else.
+> A: Phase will remain in its current role, but the Discord server will eventually get a bot that relays chat there too
 
 > Q: Why can't I see what people are saying in Zombies?
 >

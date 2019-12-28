@@ -47,7 +47,7 @@ nav-order: 2
 
 > Q: How can I get DP?
 >
-> A: You can get DP via trading or transferring, killing people in [PvP](ServernGamemodes.md#PvP), killing and dealing damage in [PvE](ServernGamemodes.md#PvE), surviving rounds in [Zombies](ServernGamemodes.md#Zombies)(You can play [hardcore zombies](ServernGamemodes.md#Hardcore-Zombies) to get DP faster), do note currently DP is only obtainable in small amounts due to a planned reset coming soon to DTP.
+> A: You can get DP via trading or transferring, killing people in [PvP](ServernGamemodes.md#PvP), killing and dealing damage in [PvE](ServernGamemodes.md#PvE), surviving rounds in [Zombies](ServernGamemodes.md#Zombies) (you can play [hardcore zombies](ServernGamemodes.md#Hardcore-Zombies) to get DP faster), do note currently DP is only obtainable in small amounts due to a planned reset coming soon to DTP.
 
 > Q: What can I do with DP?
 >
@@ -65,13 +65,13 @@ nav-order: 2
 
 > Q: How can I get XP?
 >
-> A: You can get XP by killing people in [PvP](ServernGamemodes.md#PvP), killing bosses or mobs in [PvE](ServernGamemodes.md#PvE), surviving rounds in [Zombies](ServernGamemodes.md#Zombies)(You can play [hardcore zombies](ServernGamemodes.md#Hardcore-Zombies) to get XP faster) or [voting](https://terraria-servers.com/server/90/vote/) for the server, voting gives you 25% of the remaining XP you need to level up.
+> A: You can get XP by killing people in [PvP](ServernGamemodes.md#PvP), killing bosses or mobs in [PvE](ServernGamemodes.md#PvE), surviving rounds in [Zombies](ServernGamemodes.md#Zombies) (you can play [hardcore zombies](ServernGamemodes.md#Hardcore-Zombies) to get XP faster) or [voting](https://terraria-servers.com/server/90/vote/) for the server, voting gives you 25% of the remaining XP you need to level up.
 
 <a name="xpeff"></a>
 
 > Q: How can I buy XP%?
 >
-> A: You can buy XP% by using the bar near the Get Crew button(or the Crew Badge if you're crew), (As of Oct 10 2019)each XP% costs 10 DP. XP% Can go past 100% leading in more XP. 
+> A: You can buy XP% by using the bar near the Get Crew button(or the Crew Badge if you're crew), (as of Oct 10 2019) each XP% costs 10 DP. XP% Can go past 100% leading in more XP. 
 
 > Q: How does XP% work?
 >
@@ -83,7 +83,7 @@ nav-order: 2
 
 > Q: What is Crew?
 > 
-> A: Crew is a free set of permissions available to anyone **WHO OWNS** on Steam the game. You can use it to build in [Build](ServernGamemodes.md#Build), TP to anyone(Bannable if used in [PvP](ServernGamemodes.md#PvP)), summon bosses, or create houses in Survival
+> A: Crew is a free set of permissions available to anyone **WHO OWNS** on Steam the game. You can use it to build in [Build](ServernGamemodes.md#Build), TP to anyone (bannable if used in [PvP](ServernGamemodes.md#PvP)), summon bosses, or create houses in Survival
 
 > Q: How can I get Crew?
 >
@@ -124,7 +124,7 @@ nav-order: 2
 
 > Q: What can I upgrade?
 >
-> A: Currently, you can only upgrade your Inventory Space and Special Slots(Command Slots).
+> A: Currently, you can only upgrade your Inventory Space and Special Slots (Command Slots).
 
 > Q: How can I upgrade?
 >
@@ -134,4 +134,4 @@ nav-order: 2
 
 > Q: What do I get by [voting](https://terraria-servers.com/server/90/vote/) for the server?
 >
-> A: You get a vote crate, 0.05 credits and 25% of your required XP to level up is filled, this is ofcourse assuming you have [XP%](#XP).
+> A: You get a vote crate, 0.05 credits and 25% of your required XP to level up is filled, this is of course assuming you have [XP%](#XP).

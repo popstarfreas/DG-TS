@@ -28,15 +28,15 @@ Public Lobbies, are normal lobbies created by the server that anyone can join as
 
 <a name="Hardcore-Zombies"></a>
 
-Hardcore Zombies, hardcore zombies gives more XP and DP but, if you get hit you die instantly, HP Chests are replaced with Life Chests(buy life so you won't die instantly when you get hit), you can join hardcore zombies by doing `/j z -hc` in the gamemodes lobby.
+Hardcore Zombies, hardcore zombies gives more XP and DP but, if you get hit you die instantly, HP Chests are replaced with Life Chests (buy life so you won't die instantly when you get hit), you can join hardcore zombies by doing `/j z -hc` in the gamemodes lobby.
 
-Protected Lobbies(Formerly Private Lobbies), basically a private version of the public lobby, only invited people can join. You can create a protected lobby by doing `/j z -p` in the gamemodes lobby.
+Protected Lobbies (formerly Private Lobbies), basically a private version of the public lobby, only invited people can join. You can create a protected lobby by doing `/j z -p` in the gamemodes lobby.
 
-Private Lobbies(Formerly Custom Lobbies), a lobby you can customize, changing the arena, amount of HP, etc., they are automatically private. You can't use this type of lobby for gaining DP or XP. You can create a private lobby by doing `/j z -c` in the gamemodes lobby to join.
+Private Lobbies (formerly Custom Lobbies), a lobby you can customize, changing the arena, amount of HP, etc., they are automatically private. You can't use this type of lobby for gaining DP or XP. You can create a private lobby by doing `/j z -c` in the gamemodes lobby to join.
 
 > Q: How can I join my friend?
 >
-> A: You can't.
+> A: They must invite you first.
 
 > Q: How can I invite my friend?
 >
@@ -75,7 +75,7 @@ Private Lobbies(Formerly Custom Lobbies), a lobby you can customize, changing th
 ### PvE
 TShock Server, `/pve` to join.
 
-PvE is a dimension where you kill mobs and bosses, either for fun or to get DP and XP, it has a few warps in spawn, but if you're do lazy to walk, just do `/warp list` then do `/warp <warp name>`
+PvE is a dimension where you kill mobs and bosses, either for fun or to get DP and XP, it has a few warps in spawn, but if you're to lazy to walk, just do `/warp list` then do `/warp <warp name>`
 
 > Q: Why won't the bosses Spawn?
 >
@@ -124,11 +124,11 @@ Survival is pretty much the generic survival with a few exceptions. Survival res
 
 > Q: Where can I build a house?
 >
-> A: You can build a house on the spawn platform(the entirety of the asphalt runway), if you build it anywhere else, it will get removed by world regen.
+> A: You can build a house on the spawn platform (the entirety of the asphalt runway), if you build it anywhere else, it will get removed by world regen.
 
 > Q: How can I protect it?
 >
-> A: You can protect it by using the `/house define` command([Crew](#Crew) is required), after executing the command, it will tell you to hit 2 points in your house, top-left and bottom-right.
+> A: You can protect it by using the `/house define` command ([Crew](#Crew) is required), after executing the command, it will tell you to hit 2 points in your house, top-left and bottom-right.
 
 > Q: How many houses can I define?
 >
@@ -152,7 +152,7 @@ Free items dimension.
 ### Special Items
 TSL Server, `/specialitems` to join.
 
-SpecialItems is a dimension where you can modify items, you do not keep the items when you leave the server, the modified items will disappear.
+Special Items is a dimension where you can modify items, you do not keep the items when you leave the server, the modified items will disappear.
 
 > Q: Why can't I see my friends?
 >
@@ -190,7 +190,7 @@ TSL Lobby, TShock Worlds, `/autosurvival` to join.
 AutoSurvival is a type of survival where the server hosts a survival for you, you can then download the world later on.
 
 ## TSL
-Terraria Server Lite or TSL servers are similar to TShock in some ways, TSL was created by popstarfreas(Rofle) to minimize resource consumption by only rendering a selected area and ignoring the rest. Its features include grouping people into 10. It is currently only available on DG.
+Terraria Server Lite or TSL servers are similar to TShock in some ways, TSL was created by popstarfreas (Rofle) to minimize resource consumption. It is currently only available on DG.
 
 ## TShock
-TShock is the generic Server API for Terraria it was developed y The Nyx Team. Common among popular servers like: Terraria.One, Aurora, Teeria, and Pedguin.
+TShock is the generic Server API for Terraria it was developed by The Nyx Team. Common among popular servers like: Terraria.One, Aurora, Teeria, and Pedguin.

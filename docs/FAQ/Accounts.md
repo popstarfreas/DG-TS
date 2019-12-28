@@ -33,7 +33,7 @@ nav-order: 1
 
 > Q: I forgot my password
 >
-> A: If you forget your password but you have logged in atleast one time, you can go to `/rift` and then do `/register <password>`, it will tell you that you already have a character named ..., simply do `/rename <name it told you>` then do `/login` with no password.
+> A: If you forget your password but you have logged in at least one time, you can go to `/rift` and then do `/register <password>`, it will tell you that you already have a character named ..., simply do `/rename <name it told you>` then do `/login` with no password.
 
 > Q: I want to change my password
 >

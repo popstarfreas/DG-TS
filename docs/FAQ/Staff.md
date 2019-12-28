@@ -4,7 +4,7 @@ parent: FAQ
 nav-order: 8
 ---
 # Staff
-Official Staff List(As of December 27 2019)
+Official Staff List (as of December 27 2019)
 
 | Staff Name           | Rank(s)                     |
 | -------------------- |:---------------------------:|
