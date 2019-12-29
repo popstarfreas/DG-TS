@@ -25,9 +25,9 @@ nav-order: 1
 
 > Q: How do I play with another name but using the same account?
 >
-> A: Join the server with another name then go to `/build` and do `/login <Account Username> <Password>`. `<Account Username>` represents the name you registered with, and `<Password>` represents the password you used when registering.
+> A: Join the server with another name then go to `/build` and do `/login <Account Username> <Password>`. `<Account Username>` represents the name you registered with, and `<Password>` represents the password you used when registering. **Please note that this does not work on all dimensions and you will have to login each time you change dimension.**
 >
-> i.e. I registered with a character named AveryClone, and I want to play with the name BlancIsEbic, I'd simply join the server with BlancIsEbic and do `/login AveryClone MyPassword123`.
+> i.e. I registered with a character named AveryClone, and I want to play with the name BlancIsEbic, I'd simply join the server with BlancIsEbic and do `/login AveryClone MyPassword123` every time I change dimensions, if I'm in Rift and I go to Build, I would need to login again.
 
 ## Recovery
 
