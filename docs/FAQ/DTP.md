@@ -75,9 +75,9 @@ nav-order: 2
 
 > Q: How does XP% work?
 >
-> A: (As of Oct 10 2019)The XP formula is: `XP * XP%`.
+> A: (As of Oct 10 2019) The XP formula is: `XP * XP%`.
 >
-> Say I have 50% XP% and I receive 500XP, the server will multiply `500 by 50%(or 0.5)` which means I only get half of it(250 XP), this formula applies no matter how much XP% whether it is 50% or 1000%.
+> Say I have 50% XP% and I receive 500XP, the server will multiply `500 by 50% (or 0.5)` which means I only get half of it(250 XP), this formula applies no matter how much XP% whether it is 50% or 1000%.
 
 ### Crew
 
