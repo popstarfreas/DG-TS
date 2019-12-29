@@ -114,7 +114,6 @@ nav-order: 2
 > A: You can craft custom Titles or Tags using credits, you can also get Crew using 2 Credits.
 
 ### Crafting
-**UNAVAILABLE!**
 
 > Q: How can I get custom Titles/Tags?
 >
