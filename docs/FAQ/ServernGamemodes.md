@@ -24,15 +24,15 @@ Zombies is the only "minigame" in the server, it involves a wave of monsters eve
 
 There are 4 types of lobbies:
 
-Public Lobbies, are normal lobbies created by the server that anyone can join aslong as it is in the intermission period up to the 3rd round.
+Public Lobbies, are normal lobbies created by the server that anyone can join as long as it is in the intermission period up to the 3rd round.
 
 <a name="Hardcore-Zombies"></a>
 
 Hardcore Zombies, hardcore zombies gives more XP and DP but, if you get hit you die instantly, HP Chests are replaced with Life Chests (buy life so you won't die instantly when you get hit), you can join hardcore zombies by doing `/j z -hc` in the gamemodes lobby.
 
-Protected Lobbies (formerly Private Lobbies), basically a private version of the public lobby, only invited people can join. You can create a protected lobby by doing `/j z -p` in the gamemodes lobby.
+Private Lobbies (formerly Protected Lobbies), basically a private version of the public lobby, only invited people can join. You can create a private lobby by doing `/j z -p` in the gamemodes lobby.
 
-Private Lobbies (formerly Custom Lobbies), a lobby you can customize, changing the arena, amount of HP, etc., they are automatically private. You can't use this type of lobby for gaining DP or XP. You can create a private lobby by doing `/j z -c` in the gamemodes lobby to join.
+Custom Lobbies (formerly Private Lobbies), a lobby you can customize, change the arena, amount of HP, etc., they are automatically private. You can't use this type of lobby for gaining DP or XP. You can create a custom lobby by doing `/j z -c` in the gamemodes lobby to join.
 
 > Q: How can I join my friend?
 >
@@ -42,7 +42,7 @@ Private Lobbies (formerly Custom Lobbies), a lobby you can customize, changing t
 >
 > A: `/invite <your friend's name>`.
 >
-> You don't really have to put your friend's full name(assuming there's no one else with a similar name as your friend), if you have a friend named Avery you can just do `/invite A` or `/invite Ave` instead of `/invite Avery`.
+> You don't really have to put your friend's full name (assuming there's no one else with a similar name as your friend), if you have a friend named Avery you can just do `/invite A` or `/invite Ave` instead of `/invite Avery`.
 
 > Q: Can anyone else see the lobby chat? 
 >
@@ -75,7 +75,7 @@ Private Lobbies (formerly Custom Lobbies), a lobby you can customize, changing t
 ### PvE
 TShock Server, `/pve` to join.
 
-PvE is a dimension where you kill mobs and bosses, either for fun or to get DP and XP, it has a few warps in spawn, but if you're to lazy to walk, just do `/warp list` then do `/warp <warp name>`
+PvE is a dimension where you kill mobs and bosses, either for fun or to get DP and XP, it has a few warps in spawn, but if you're too lazy to walk, just do `/warp list` then do `/warp <warp name>`
 
 > Q: Why won't the bosses Spawn?
 >
@@ -116,7 +116,7 @@ Survival is pretty much the generic survival with a few exceptions. Survival res
 
 > Q: How does hardmode die?
 >
-> A: When the mob cap is reached(if you have [Crew](#Crew) you can do `/worlddata mode` to see the cap and the current kill count).
+> A: When the mob cap is reached (if you have [Crew](#Crew) you can do `/worlddata mode` to see the cap and the current kill count).
 
 > Q: What are the warps?
 >
@@ -175,7 +175,7 @@ Gamemodes is a Rift-like dimension, hub for [minigames](#minigames)
 
 
 ### Archives
-**Note: Archives are rarely hosted.**
+**Note: Currently the Archives are not hosted 24/7.**
 
 TSL Servers, `/archive0x5`, `/archive0x5b`, `/archive0x2`, `/archive0x3` or `/archive0x4` to join any of the 5 dimensions
 
@@ -187,10 +187,10 @@ Archives are comprised of 5 dimensions `archive0x5`, `archive0x5b`, `archive0x2`
 
 TSL Lobby, TShock Worlds, `/autosurvival` to join.
 
-AutoSurvival is a type of survival where the server hosts a survival for you, you can then download the world later on.
+AutoSurvival is a type of survival where the server hosts a survival for you, you can then download the world later on. AutoSurvival only existed to make use of spare server capacity, it may come back in the future if such an event arises.
 
 ## TSL
-Terraria Server Lite or TSL servers are similar to TShock in some ways, TSL was created by popstarfreas (Rofle) to minimize resource consumption. It is currently only available on DG.
+Terraria Server Lite or TSL servers are similar to TShock in some ways, TSL was created by popstarfreas (Rofle) to minimize resource consumption. It is completely separate from Terraria's source code and makes no use of it (more info available at [the knowledgebase](https://github.com/popstarfreas/TerrariaServerLite-KnowledgeBase). It is currently only available on DG.
 
 ## TShock
 TShock is the generic Server API for Terraria it was developed by The Nyx Team. Common among popular servers like: Terraria.One, Aurora, Teeria, and Pedguin.
