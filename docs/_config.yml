@@ -1,0 +1,5 @@
+title: "Dark Gaming"
+remote_theme: pmarsceill/just-the-docs
+base-url: "/DG-TS"
+color_scheme: "dark"
+markdown: kramdown
