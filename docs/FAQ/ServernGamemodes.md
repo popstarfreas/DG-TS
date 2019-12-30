@@ -24,7 +24,7 @@ Zombies is the only "minigame" in the server, it involves a wave of monsters eve
 
 There are 4 types of lobbies:
 
-Public Lobbies, are normal lobbies created by the server that anyone can join as long as it is in the intermission period up to the 3rd round.
+Public Lobbies, are normal lobbies created by the server that anyone can join as long as it is currently in intermission or below Round 4.
 
 <a name="Hardcore-Zombies"></a>
 
