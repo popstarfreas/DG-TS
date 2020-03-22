@@ -1,7 +1,10 @@
 ## Information
 Abilities will have either or both of a passive and active part. A Passive part of an ability is something that happens automatically without manual input, whilst an active part of an ability is one that requires manual input to trigger.
 
-Manual inputs rely on a combination of movement keys. The below assumes movement keys are bound to WASD. So S S would mean press the 'S' key twice in rapid succession.
+Manual inputs rely on a combination of movement keys. The below assumes movement keys are bound to WASD. So S S would mean press the 'S' key twice in rapid succession. For combinations such as W S, you may hold down W and tap S (multiple times even).
+
+## Suggesting
+If you have an ability idea that is different from the existing abilities, post it as a suggestion in the issues section: https://github.com/popstarfreas/DG-TS/issues.
 
 ## Barrage
 ### S S
@@ -79,7 +82,7 @@ Unarmed Sentry. Stores score that it pays out at the end of the round. Score is 
 Melee sentry. Wields a really slow and low damaging platinum shortsword. High health.
 
 # Unlockables
-You must be at least a Trading Member (or Crew) to be able to unlock abilities.
+You must be at least a Trading Member (or Crew) to be able to unlock abilities. Not all unlockables are intended to be as easy to use or as powerful as each other, some are intended for people who prefer a bigger challenge.
 
 ## Telekinesis
 
@@ -97,7 +100,7 @@ Applies an upward velocity to your character. Can be used while in the air.
 
 ## Self Repair
 ### Unlocked via
-Getting to round 10, in 100 different solo matches.
+Not yet unlockable, but it will be via getting to round 10, in 100 different solo matches. This is pending an update that adds such tracking.
 
 ### S S
 Activate charging mode to charge up a burst of healing via damage.
@@ -107,18 +110,18 @@ Activate charging mode to charge up a burst of healing via damage.
 Complete round 15 on Shadow's Descent.
 
 ### S S
-Make a wish (you don't make it, your character does).
+Make a wish (you don't make it, your character does). Wish is an RNG ability whose probabilities are altered based on your current situation. Most negative wishes can be negated.
 
 ## Vampirism
 ### Unlocked via
-Only while wearing the full vampire vanity.
+Only while wearing the full vampire vanity. The vampire vanity must be equipped on the Trading System. The complete set is currently only obtainable during events that give out vanity chests.
 
 ### Passive
 Heal through damage at the expense of suffering increasing debuffs
 
 ## Astral Projection
 ### Unlocked via
-Not yet available
+Not yet available. This ability is currently not implemented.
 
 ### S S
 Leave your body and ignore enemies to travel around the map, use chests and revive others. Your body may still take damage and die. Using this again will return you to your body.
@@ -135,7 +138,7 @@ Have a regen buff while close to enemies (requires line of sight). Regen buffs i
 
 ## Reverent
 ### Unlocked via
-Not yet available
+Not yet available. This ability is currently in testing for balance purposes.
 
 ### Passive
 Heals nearby allies that are not at full hp, increasing in heal rate while healing them. Each heal tick increases insanity, which will cause debuffs at certain stages and eventually will start damaging allies instead of healing them. Insanity drains when not healing anyone.
