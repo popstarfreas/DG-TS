@@ -22,7 +22,7 @@ This ability activates when you get hit below half your health. It will teleport
 
 ### Upgrade Effect
  * Increases the heal
- * Increasing the range at which nemies will be cleared
+ * Increasing the range at which enemies will be cleared
 
 ## Dual Wield
 ### S S
