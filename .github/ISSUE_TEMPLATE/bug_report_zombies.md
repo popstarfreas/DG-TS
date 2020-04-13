@@ -1,8 +1,8 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: Bug
-labels: bug
+name: Zombies bug report
+about: Report a bug related to Zombies
+title: Zombies Bug Report
+labels: bug Zombies
 assignees: 'popstarfreas'
 
 ---
@@ -14,14 +14,10 @@ A clear and concise description of what the bug is.
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
-3. Scroll down to '....'
-4. See error
+3. See error
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Additional context**
+**Additional context (Optional)**
 Add any other context about the problem here.
