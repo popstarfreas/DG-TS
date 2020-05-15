@@ -1,3 +1,6 @@
+# The latest version of this document is at https://forum.dark-gaming.com/t/zombies-abilities/3186/1
+
+
 ## Information
 Abilities will have either or both of a passive and active part. A Passive part of an ability is something that happens automatically without manual input, whilst an active part of an ability is one that requires manual input to trigger.
 
