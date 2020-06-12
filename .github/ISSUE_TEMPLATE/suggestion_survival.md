@@ -1,8 +1,8 @@
 ---
-name: Suggestion
+name: Survival Suggestion
 about: Suggest an idea for survival
-title: Suggestion
-labels: enhancement
+title: Survival Suggestion
+labels: enhancement Survival
 assignees: 'popstarfreas'
 
 ---
